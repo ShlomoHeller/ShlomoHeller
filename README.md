@@ -1,10 +1,12 @@
-# Shlomo Heler
+# Shlomo Heller
 ___
-## about me...
-- Yeshiva student, programmer
-- Hebrew, English
-- israel
-- Software, Apps, Plugins, Scripts
+## Skills & Interests
+* Custom ROMs development for Android  
+* Android app development  
+* System-level Android customization (rooting, flashing, system modification)  
+* Desktop software development  
+* Chrome extension development for improving website efficiency 
+* Custom website development
 
 ## Programming languages
 ___
