@@ -10,6 +10,7 @@ ___
 
 ## Programming languages
 ___
+![kotlin](https://img.shields.io/badge/-Kotlin-3776AB?logo=kotlin&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Batch](https://img.shields.io/badge/->__%20Batch-000000)
 ![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
